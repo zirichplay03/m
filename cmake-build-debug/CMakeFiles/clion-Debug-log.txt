@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2024.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Kirill\CLionProjects\m -B C:\Users\Kirill\CLionProjects\m\cmake-build-debug
+-- Include directories for Mosquitto: C:/Users/Kirill/CLionProjects/m/lib/mosquitto/devel
+-- Link directories for Mosquitto: C:/Users/Kirill/CLionProjects/m/lib/mosquitto/cpp
+-- Include directories for MySQL Connector/C++: C:/Users/Kirill/CLionProjects/m/lib/mysql/MySQL-Server-8.0/include
+-- Link directories for MySQL Connector/C++: C:/Users/Kirill/CLionProjects/m/lib/mysql/MySQL-Server-8.0/lib
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Kirill/CLionProjects/m/cmake-build-debug
